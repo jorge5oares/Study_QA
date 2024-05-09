@@ -1,0 +1,121 @@
+Resumo dia 4
+
+Continuação do curso "Inicio Rápido em teste e QA
+
+#########
+
+Os danos dos bugs:
+
+empresas / organizações
+
+atrasos, perda de confiança /  vendas
+
+
+Pessoas
+
+Contragimento, perda ou supressão de direitos, risco de vida e acidentes
+
+Governos
+
+Vulnerabilidade de informações
+
+decisões estragtégicas incorretas, derrotas militares
+
+Meio ambiente
+
+alerta de atrasasos
+
+desperdício de recurso
+poluição
+
+##########
+testar tudo, com todas as possibilidades para que tenha mais retorno
+
+priorisar oq ueira  dar mais retorno
+
+##########
+quanto maiscedo encontrarmos um defeito, mais barata será sua identificação e correção
+
+##############
+alguns bugs estão distribuídos de forma heterogenea.Algunss módulos tem mais defeitos que outros
+
+#############
+
+fazer o mesmo teste diferças vezes nao ajuda a achar novos bugs
+
+criar novos testes para descobrir novos bugs
+
+teste são criados conforme o contexto
+
+###########
+
+teste e qualidade
+
+aprimorar processos
+prevenir reincidencia de erros
+
+melhorar a qualidade dos sistemas futuros
+
+entender a causa raiz dos defeitos encontrados
+
+
+############
+erro - defeito - falha
+
+
+############
+
+IEC/ISO 25010
+
+###########
+
+Adequadação funcional
+
+##########
+
+Usabilidade
+
+
+#######
+compatibilidade
+saber se um softwere é compativel com outros
+interopelabilidade
+maturidade
+previnir a falha antes que aconteça
+
+
+##########
+eficiencia no desempenho
+comportamento em relação do tempo
+estudar pra aber usar os recursos
+
+
+############
+Manutenibilidade
+facilidade de reutilizar
+facilidade de analisar
+facilidade de modificar
+facilidade de tetes
+
+##########
+portabilidade
+
+verificar se aquele softwere ira funcionar em varios ambientes
+video games, celulares, outros sistemas operacionais
+instalabilidade. facilidade de instalar e desinstalar
+
+###############
+e o ultimo, segurança
+integridade
+responsabilidade
+
+##########
+
+teste manual x testes automatizados
+
+teste automatizado = valocidade porem cai um pouco a qualidade
+teste manual = velocidade cai porem qualidade aumenta
+testar sempre o produto, pra ver se ta tudo certo
+
+##############
+testes ágeis x testes tradicionais
