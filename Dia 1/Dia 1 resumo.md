@@ -1,6 +1,6 @@
-Resumo dia 1
+#Resumo dia 1
 
-Aprendizado sobre a trilha de QA 
+##Aprendizado sobre a trilha de QA 
 
 Como usar e organizar o github e gitlab
 
