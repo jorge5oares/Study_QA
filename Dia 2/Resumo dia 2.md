@@ -1,4 +1,4 @@
-Resumo dia 2
+# Resumo dia 2
 
 Aprendizado sobre srum
 

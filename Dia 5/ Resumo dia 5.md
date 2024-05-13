@@ -1,31 +1,33 @@
+# Dia 5 - Fundamentos do teste de software + Myers e o princípio de pareto
+
 Objetivos típicos do teste
 
--Avaliar produtos
+- Avaliar produtos
 
--verificar requisitos
+- verificar requisitos
 
--Validar objeto do teste
+- Validar objeto do teste
 
--criar confiança
+- criar confiança
 
--Evitar defeitos
+- Evitar defeitos
 
--Encontrar falhas
+- Encontrar falhas
 
--Auxiliar tomadas de dcisões
+- Auxiliar tomadas de dcisões
 
--Reduzir riscos
+- Reduzir riscos
 
--Atender conformidade contratual
+- Atender conformidade contratual
 
 
-#Teste dinâmico
+## Teste dinâmico
 
-é o mais utilizado pelo mercado
+- É o mais utilizado pelo mercado
 
-#Teste estático
+## Teste estático
 
-Revisão, inspeção e análise estática dos artefatos
+- Revisão, inspeção e análise estática dos artefatos
 
 
 o mais usual é que o testador foque nas atividades de teste e teste de confirmação, enquanto o desenvolvedor fique com a responsabilidade de depurar o código.
@@ -35,16 +37,16 @@ o mais usual é que o testador foque nas atividades de teste e teste de confirma
 • Reduzimos custos de manutenção e os chamados de suporte;
 • Obtemos um software bem estruturado que facilita novos projetos.
 
-Quanto mais qualidade = produção mais rápida = mais produtividade
+- Quanto mais qualidade = produção mais rápida = mais produtividade
 
-ERRO, DEFEITO E FALHA
+## ERRO, DEFEITO E FALHA
 • Um software pode conter defeitos e nunca falhar;
 • Falha é um evento;
 • Defeito é um estado do software causado por um erro;
 • Cuidado com falsos positivos;
 • Cuidado com falsos negativos
 
-Monitoramento e controle do teste
+* Monitoramento e controle do teste
 
 - Planejamento do teste
 - Análise do teste
@@ -53,13 +55,13 @@ Monitoramento e controle do teste
 - Execução do teste
 - Conclusão do teste 
 
-A PSICOLOGIA DO TESTE
+## A PSICOLOGIA DO TESTE
 
 • Um bom testador deve ter respeito com sensibilidade e
 ser atencioso com os outros ao fornecer feedback ou
 discutirfalhas
 
-CONCLUINDO
+## CONCLUINDO
 
 • A confiabilidade do software aumenta à medida em que ele
 é executado ao longo do tempo, sem apresentarfalhas;
