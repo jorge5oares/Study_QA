@@ -2,10 +2,12 @@
 
 
 1) Realizar uma consulta que conte o número de registros existentes.
+
 		db.collection.count()
 
 2) Realizar uma consulta para alterar o usuário com o nome "Teste Start" para "Teste Finish".
-	db.collection.updateOne({nome: 'Teste Start' },{$set: {nome: 'Teste Finish'}})
+
+		db.collection.updateOne({nome: 'Teste Start' },{$set: {nome: 'Teste Finish'}})
 
 3)  Realizar uma consulta para encontrar o usuário com o nome "Bruce Wayne".
 
