@@ -4,7 +4,7 @@
 
 - Durante e etapa de exercício em grupo do dia 5 , tive ajuda de meus colegas: Edgar Lutterbach, Victoria Valicelle e Vitor Belger.
 
-## *Logo abaixo vocês conseguem ter acesso aos resumos e exercícios relacionados:*
+ _*Logo abaixo vocês conseguem ter acesso aos resumos e exercícios relacionados:*_
 
 
 [Dia 1 - Ágil Onboard](/Sprint1/ResumoDia1.md)
