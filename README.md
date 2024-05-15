@@ -16,3 +16,5 @@
 [Dia 4 - MasterClass Fundamentos do teste de software](/Sprint1/ResumoDia4.md)
 
 [Dia 5 - MasterClass Fundamentos do teste de software + Myers e o princípio de pareto](/Sprint1/Dia5)
+
+[Dia 6 - MasterClass Fundamentos do teste de software (Back-End)](/Sprint1/ResumoDia6.md)
