@@ -25,7 +25,7 @@
 #### Agradecimentos as pessoas que contribuíram com este projeto
 
 
-- Leticia Ribeiro, Davi Santana, Gabriel Just e Mathias Uecker Fischer
+- Leticia Ribeiro, Davi Santana, Gabriel Just, Mathias Uecker Fischer e Ricardo Enio Neckel
 
 - Durante a etapa do exercício em grupo do dia 5 , tive ajuda de meus colegas: Edgar Lutterbach, Victoria Valicelle e Vitor Belger.
 
