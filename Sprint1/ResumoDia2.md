@@ -1,9 +1,9 @@
 # Resumo dia 2
 
-Aprendizado sobre srum
+## Aprendizado sobre srum
 
-aprender a gerenciar um projeto
+- Gerenciamento de um projeto
 
-organizar as tarefas
+- Organizar as tarefas
 
-certificado pela Udemy do curso de scrum master
+- Certificado pela Udemy do curso de scrum master
