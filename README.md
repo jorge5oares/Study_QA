@@ -21,7 +21,7 @@
 
 [Dia 8 - MasterClass NOSQL](/Sprint1/ResumoDia8.md)
 
-[Dia 9 -MasterClass CyberSecurity](/Sprint1/ResumoDia9.md)
+[Dia 9 - MasterClass CyberSecurity](/Sprint1/ResumoDia9.md)
 
 
 #### Agradecimentos as pessoas que contribuíram com este projeto
