@@ -1,1 +1,1 @@
-# Versionamentos de exercícios e rsumos referente a sprint2!
+# Versionamentos de exercícios e resumos referente a sprint2!
