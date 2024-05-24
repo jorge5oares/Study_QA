@@ -67,4 +67,21 @@ Se todos os fluxos estiverem implementados no teste automatizado, então a API R
 
 - Este critério verifica quais status codes existentes em cada endpoint estão cobertos pelos testes.
 
+# Testes candidatos à automação
+
+_Não é todo teste que pode e deve ser automatizado_
+
+Comunicação franca e direta com o cliente pra entender qual a necessidade do mesmo.
+
+
+**O mapa mental**
+
+- Esta organizado por arvores de funcionalidades
+
+- Tem a parte priorizada e a parte não priorizada
+
+**Criar fluxos para os exercícios anteriores**
+
+- Existem diversos tipos de fluxo de compras
+- Elaborar cada um de acordo com a demanda
 
