@@ -1,7 +1,7 @@
-Dia 4 :: MasterClass Planejamento de testes
+# Dia 4 :: MasterClass Planejamento de testes
 
 
-# Processo de teste
+## Processo de teste
 
 
 * Planejamento do teste;
@@ -21,9 +21,7 @@ Dia 4 :: MasterClass Planejamento de testes
 
 ## Plano de teste
 
-- Plano feito para explicitar algumas atividades do processo de teste
-
-planejamento, implementação, etc...
+- Plano feito para explicitar algumas atividades do processo de teste, planejamento, implementação, etc...
 
 
 

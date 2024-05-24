@@ -3,13 +3,13 @@
 
 **Definition of Ready (DoR) – Mais qualidade no Product Backlog**
 
-	_Definition of Ready (DoR), que traduzindo para o português significa a “Definição
-	 de preparado”, é uma técnica de qualidade e gestão de risco que apoia a entrada de
-	 uma história para o delivery. Basicamente são pré-requisitos de um backlog, para
-	 que seja considerado apto para iniciar o desenvolvimento._ 
+_Definition of Ready (DoR), que traduzindo para o português significa a “Definição
+de preparado”, é uma técnica de qualidade e gestão de risco que apoia a entrada de
+uma história para o delivery. Basicamente são pré-requisitos de um backlog, para
+que seja considerado apto para iniciar o desenvolvimento._ 
 
 
-##Problemas o Definition of Ready poderia evitar
+## Problemas que o Definition of Ready poderia evitar
 
 * Seu time tem bloqueios na etapa de desenvolvimento constantemente?
 
@@ -65,7 +65,7 @@ Exemplo 2: Produto Open Banking
 **Toda a equipe é resposnável pela definição do DoR**
 
 
-**Quem é responsável por tornar um critério Ready?**
+* **Quem é responsável por tornar um critério Ready?**
 
 	A responsabilidade por tornar um critério ready é das lideranças do projeto, por exemplo,
 	Team Lead, Scrum Master, Tech Lead e Product Owner.
@@ -83,7 +83,7 @@ Exemplo 2: Produto Open Banking
 
 ## Conceitos HTTP, API REST & JSON
 
-# MICROSSERVIÇOS vs MONOLITO:
+# MICROS SERVIÇOS vs MONOLITO:
 
 **Principais vantagens: MONOLITO**
 

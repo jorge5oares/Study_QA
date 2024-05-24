@@ -1,45 +1,44 @@
-Dia 3 :: MasterClass Tipos de erros, validações e boas práticas em testes de API
+# Dia 3 :: MasterClass Tipos de erros, validações e boas práticas em testes de API
 
 
-Validações que vemos em algumas APIs
+## Validações que vemos em algumas APIs
 
 
-Status
+* Status
 
-header
+* header
 
-body
+* body
 
-Json
+* Json
 
-Erros comuns na API
+**Erros comuns na API:**
 
-Estrutura  de dados, erro de segurança não tratado
-
+- Estrutura  de dados, erro de segurança não tratado
 
 
 ## Boas páraticas para testar API:
 
 
-Entender o projeto
+- Entender o projeto
 
-quais tecnologias usar
+- Quais tecnologias usar
 
-tiposs de testes 
+**tiposs de testes:**
 
 - funcionais
 - nao funcionais
 - estruturais
 
 
-Segurança de uma API
+**Segurança de uma API**
 
-Autenticação
+- Autenticação
 
-o request body tem que estar emformato JSON e ter as seguintes propriedades:
+**O request body tem que estar emformato JSON e ter as seguintes propriedades:**
 
-. ClienteName - String
-. clientEmail - Strings
+    . ClienteName - String
+    . clientEmail - Strings
 
 
 ## Testes funcionais em API rest
