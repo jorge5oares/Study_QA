@@ -47,6 +47,6 @@ _5) Crie cenários alternativos na atualização de usuários, explore possívei
 
 <div align=center><img src="./Images/cenario alternativo com busca de usuario com e-mail errado.jpg" alt="descrição" width="500" height=""></div>
 
-_6) Crie cenários alternativos na exclusão de usuários, explore possíveis erros que podem ocorrer e mapeie as requisições através do Postman._
+_6) Crie  cenários alternativos na exclusão de usuários, explore possíveis erros que podem ocorrer e mapeie as requisições através do Postman._
 
 <div align=center><img src="./Images/caso alternativo de exclusão de usuario inexistente.jpg" alt="descrição" width="500" height=""></div>
