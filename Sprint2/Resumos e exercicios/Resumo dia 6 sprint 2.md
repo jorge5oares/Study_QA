@@ -15,9 +15,9 @@
 # Atividade dia 6
 
 
-Plataforma de ensino a distancia CEDERJ
+**Plataforma de ensino a distancia CEDERJ**
 
-<div align=center><img src="./Images/image.png" alt="descrição" width="500" height=""></div>
+<div align=center><img src="/resumo-dos-dias/Sprint2/Images/image.png" alt="descrição" width="500" height=""></div>
 
 **Lista de prioritários:**
 

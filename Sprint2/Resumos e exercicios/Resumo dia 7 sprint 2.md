@@ -14,4 +14,4 @@ e/ou funcionalidades."_
 ### Segue abaixo a atividade proposta feita no Xmind:
 
 
-<div align=center><img src="./Images/image2.jpg" alt="descrição" width="500" height=""></div>
+![alt text](../Images/image2.jpg)
