@@ -28,6 +28,7 @@ _1) Crie uma requisição Get para validar o retorno de usuários através da AP
 
 ![alt text](<../Images/get usuarios.jpg>)
 
+
 _2) Crie uma requisição Post para cadastrar um novo usuário através da API_:
 
 ![alt text](<../Images/post usuarios.jpg>)

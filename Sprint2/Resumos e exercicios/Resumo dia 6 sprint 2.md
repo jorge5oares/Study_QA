@@ -17,7 +17,8 @@
 
 **Plataforma de ensino a distancia CEDERJ**
 
-![alt text](image.png)
+![alt text](../Images/image.png)
+
 
 **Lista de prioritários:**
 
