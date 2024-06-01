@@ -32,6 +32,7 @@ _1) Crie uma requisição Get para validar o retorno de usuários através da AP
 _2) Crie uma requisição Post para cadastrar um novo usuário através da API_:
 
 
+
  <div align=center><img src="./Images/post usuarios.jpg" alt="descrição" width="500" height=""></div>
 
 
