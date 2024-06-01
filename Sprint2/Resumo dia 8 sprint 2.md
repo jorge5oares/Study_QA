@@ -50,3 +50,6 @@ _5) Crie cenários alternativos na atualização de usuários, explore possívei
 _6) Crie  cenários alternativos na exclusão de usuários, explore possíveis erros que podem ocorrer e mapeie as requisições através do Postman._
 
 <div align=center><img src="./Images/caso alternativo de exclusão de usuario inexistente.jpg" alt="descrição" width="500" height=""></div>
+
+
+<div align=center><img src="./Images/caso alternativo de exclusão de usuario inexistente.jpg" alt="descrição" width="500" height=""></div>
