@@ -26,28 +26,25 @@ integração contínua, automações, depuração e entre outros...
 
 _1) Crie uma requisição Get para validar o retorno de usuários através da API;_
 
-<div align=center><img src="./Images/get usuarios.jpg" alt="descrição" width="500" height=""></div>
-
+![alt text](<../Images/get usuarios.jpg>)
 
 _2) Crie uma requisição Post para cadastrar um novo usuário através da API_:
 
-
-
- <div align=center><img src="./Images/post usuarios.jpg" alt="descrição" width="500" height=""></div>
+![alt text](<../Images/post usuarios.jpg>)
 
 
  _3) Crie uma requisição Get para validar o retorno de um usuário apenas através da API (pode utilizar os IDs dos usuários que vocês irão criar);_
 
-<div align=center><img src="./Images/get usuario id.jpg" alt="descrição" width="500" height=""></div>
+![alt text](<../Images/get usuario id.jpg>)
 
 _4) Crie cenários alternativos no cadastro de usuários, explore possíveis erros que podem ocorrer e mapeie as requisições através do Postman;_
 
-<div align=center><img src="./Images/cenario alternativo para criação de usuário.jpg" alt="descrição" width="500" height=""></div>
+![alt text](<../Images/cenario alternativo para criação de usuário.jpg>)
 
 _5) Crie cenários alternativos na atualização de usuários, explore possíveis erros que podem ocorrer e mapeie as requisições através do Postman;_
 
-<div align=center><img src="./Images/cenario alternativo com busca de usuario com e-mail errado.jpg" alt="descrição" width="500" height=""></div>
+![alt text](<../Images/cenario alternativo com busca de usuario com e-mail errado.jpg>)
 
 _6) Crie  cenários alternativos na exclusão de usuários, explore possíveis erros que podem ocorrer e mapeie as requisições através do Postman._
 
-<div align=center><img src="./Images/caso alternativo de exclusão de usuario inexistente.jpg" alt="descrição" width="500" height=""></div>
+![alt text](<../Images/caso alternativo de exclusão de usuario inexistente.jpg>)

@@ -17,7 +17,7 @@
 
 **Plataforma de ensino a distancia CEDERJ**
 
-<div align=center><img src="/resumo-dos-dias/Sprint2/Images/image.png" alt="descrição" width="500" height=""></div>
+![alt text](image.png)
 
 **Lista de prioritários:**
 
