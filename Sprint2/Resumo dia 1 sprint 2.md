@@ -172,3 +172,41 @@ da implementação do outro. Usa o protocolo HTTP e é baseado em contrato.
 * RESTful : Possui os mesmos princípios de REST. A diferença é que a API implementada precisa estar de acordo com todas regras e
 restrições definidas para a construção de APIs REST. Em resumo a API precisa ter um grau de maturidade alto para cumprir todos os
 critérios de uma API REST definidos porRoy Fielding
+
+# Atividade complementar 1
+
+
+## Relatório de bugs
+
+**Reporter:**
+
+**Título do bug:**
+
+_Acesso a plataforma no final de semana_
+
+**Descrição:**
+
+_Usuários relatam que não conseguem ter acesso.É pessado a seguinte mensagem: "mensagem de erro". Plataforma apresenta instabilidade nos
+finais de semana,com demora para carregar algumas páginas._
+
+
+
+**Resultado esperado:**
+
+	"imagem com normalidade"
+
+
+**Resultado Real:**
+
+	"Imagem de erro"
+
+
+
+**Info com ambiente de teste**
+
+
+* Windows
+
+* notebook
+
+* Brave
