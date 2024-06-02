@@ -17,9 +17,9 @@
 
 ### Logo abaixo, temos os caminhos para cada dia e seus respectivos resumos e exercícios.
  
-[Dia 1 :: MasterClass Conceitos HTTP, API REST, JSON, User Stories & Issues](https://gitlab.com/testgroup1445219/resumo-dos-dias/-/blob/pb_sprint2/Sprint2/Resumo%20dia%201%20sprint%202.md?ref_type=heads)
+[Dia 1 :: MasterClass Conceitos HTTP, API REST, JSON, User Stories & Issues](https://gitlab.com/testgroup1445219/resumo-dos-dias/-/blob/pb_sprint2/ResumosAtividades/Resumo%20dia%201%20sprint%202.md)
 
-[Dia 2 :: MasterClass​​​​​​​ Testes Estáticos (Swagger)](https://gitlab.com/testgroup1445219/resumo-dos-dias/-/blob/pb_sprint2/Sprint2/Resumo%20dia%202%20sprint%202.md?ref_type=heads)
+[Dia 2 :: MasterClass​​​​​​​ Testes Estáticos (Swagger)](https://gitlab.com/testgroup1445219/resumo-dos-dias/-/blob/pb_sprint2/ResumosAtividades/Resumo%20dia%202%20sprint%202.md)
 
 [Dia 3 :: MasterClass Tipos de erros, validações e boas práticas em testes de API](https://gitlab.com/testgroup1445219/resumo-dos-dias/-/blob/pb_sprint2/Sprint2/Resumo%20dia%203%20sprint%202.md?ref_type=heads)
 
