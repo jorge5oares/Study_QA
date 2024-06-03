@@ -34,13 +34,13 @@
 [Dia 8 :: MasterClass Introdução ao Postman](https://gitlab.com/testgroup1445219/resumo-dos-dias/-/blob/pb_sprint2/ResumosAtividades/Resumo%20dia%208%20sprint%202.md)
 
 
-_Agradecimentos aos que contribuíram com este projeto:_
+### _Agradecimentos aos que contribuíram com este projeto:_
 
-Leticia Ribeiro
-Enzo Rossi
-Gabriel Just
-Daniel Pontes
-Ricardo Neckel
-Mathias Uecker Fischer
-Matheus Knust
-Davi Santana
+- Leticia Ribeiro
+- Enzo Rossi
+- Gabriel Just
+- Daniel Pontes
+- Ricardo Neckel
+- Mathias Uecker Fischer
+- Matheus Knust
+- Davi Santana
