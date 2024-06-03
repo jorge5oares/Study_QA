@@ -42,3 +42,5 @@ Gabriel Just
 Daniel Pontes
 Ricardo Neckel
 Mathias Uecker Fischer
+Matheus Knust
+Davi Santana
