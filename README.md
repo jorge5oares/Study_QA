@@ -1,35 +1,33 @@
-# Este é o meu repositório com resumos diários de aprendizagem durante a sprint 1!
+# Repsositório de atividades referente a sprint 3!
+
+## Abaixo tamos o mapa mental solicitado para organização 
+
+![Alt text](<MAPAMENTAL SPRINT3.png>)
+
+## Seguido dos seguintes planejamento de testes:
 
 
+## _/Login_
 
- ### **_Logo abaixo vocês conseguem ter acesso aos resumos e exercícios relacionados:_**
+**Casos de Teste:**
 
-
-[Dia 1 - Ágil Onboard](/Sprint1/ResumoDia1.md)
-
-[Dia 2 - Planning Sprint 1](/Sprint1/ResumoDia2.md)
-
-[Dia 3 - MasterClass Fundamentos do teste de software](/Sprint1/ResumoDia3.md)
-
-[Dia 4 - MasterClass Fundamentos do teste de software](/Sprint1/ResumoDia4.md)
-
-[Dia 5 - MasterClass Fundamentos do teste de software + Myers e o princípio de pareto](/Sprint1/Dia5)
-
-[Dia 6 - MasterClass Fundamentos do teste de software (Back-End)](/Sprint1/ResumoDia6.md)
-
-[Dia 7 - MasterClass SQL](/Sprint1/Dia7)
-
-[Dia 8 - MasterClass NOSQL](/Sprint1/ResumoDia8.md)
-
-[Dia 9 - MasterClass CyberSecurity](/Sprint1/ResumoDia9.md)
+| ID do Caso de Teste | Descrição | Pré-condição | Passos | Resultado Esperado |  |  |
+|---|---|---|---|---|---|---|
+| TC-001 | Login com usuário não cadastrado | O usuário não está cadastrado no sistema. | 1. Acessar a página de login do Marketplace da ServeRest. 2. Digitar um email e senha que não estejam cadastrados no sistema. 3. Clicar no botão "Entrar". | O sistema deve retornar um erro informando que o usuário não está cadastrado. | | |
+| TC-002 | Login com senha inválida | O usuário está cadastrado no sistema, mas a senha digitada está incorreta. | 1. Acessar a página de login do Marketplace da ServeRest. 2. Digitar o email do usuário cadastrado e uma senha incorreta. 3. Clicar no botão "Entrar". | O sistema deve retornar um erro informando que a senha está incorreta. | | |
+| TC-003 | Login com sucesso | O usuário está cadastrado no sistema e a senha digitada está correta. | 1. Acessar a página de login do Marketplace da ServeRest. 2. Digitar o email do usuário cadastrado e a senha correta. 3. Clicar no botão "Entrar". | O sistema deve autenticar o usuário e redirecioná-lo para a página principal do Marketplace. | | |
+| TC-004 | Verificação do token Bearer | O usuário foi autenticado com sucesso. | 1. Verificar o cabeçalho da resposta HTTP. | O cabeçalho da resposta HTTP deve conter um campo "Authorization" com o valor "Bearer <token>". | | |
+| TC-005 | Validade do token Bearer | O usuário foi autenticado com sucesso. | 1. Autenticar o usuário e obter o token Bearer. 2. Aguardar 10 minutos. 3. Tentar realizar uma nova requisição com o token Bearer. | A requisição deve ser rejeitada com um erro informando que o token Bearer expirou. | | |
 
 
-#### Agradecimentos as pessoas que contribuíram com este projeto
+## _/Produtos_
 
-
-- Leticia Ribeiro, Davi Santana, Gabriel Just, Mathias Uecker Fischer e Ricardo Enio Neckel
-
-- Durante a etapa do exercício em grupo do dia 5 , tive ajuda de meus colegas: Edgar Lutterbach, Victoria Valicelle e Vitor Belger.
-
-
-**_Quero expressar minha sincera gratidão por todo o suporte e ajuda que vocês me deram durante o projeto no GitLab. Sem vocês, não teria sido possível alcançar nossos objetivos. Muito obrigado por estarem sempre ao meu lado!_**
+| ID | Descrição | Pré-condição | Passos | Resultado Esperado |  |  |
+|---|---|---|---|---|---|---|
+| CT001 | Testar autenticação de usuário | Usuário não autenticado | 1. Acessar a rota de Produtos; | Retornar status 401 (Unauthorized) | | |
+| CT002 | Testar cadastro de produto | Usuário autenticado | 1. Acessar a rota de Produtos; 2. Informar os dados do produto; 3. Clicar em "Cadastrar". | Retornar status 201 (Created) e o produto cadastrado | | |
+| CT003 | Testar cadastro de produto com nome já utilizado | Usuário autenticado | 1. Acessar a rota de Produtos; 2. Informar os dados do produto com um nome já utilizado; 3. Clicar em "Cadastrar". | Retornar status 400 (Bad Request) e a mensagem de erro "Nome de produto já utilizado". | | |
+| CT004 | Testar edição de produto | Usuário autenticado | 1. Acessar a rota de Produtos; 2. Selecionar o produto que deseja editar; 3. Informar os dados atualizados do produto; 4. Clicar em "Atualizar". | Retornar status 200 (OK) e o produto atualizado | | |
+| CT005 | Testar atualização de produto inexistente | Usuário autenticado | 1. Acessar a rota de Produtos; 2. Informar o ID de um produto inexistente; 3. Informar os dados atualizados do produto; 4. Clicar em "Atualizar". | Retornar status 404 (Not Found) e a mensagem de erro "Produto não encontrado". | | |
+| CT006 | Testar exclusão de produto | Usuário autenticado | 1. Acessar a rota de Produtos; 2. Selecionar o produto que deseja excluir; 3. Clicar em "Excluir". | Retornar status 204 (No Content) e o produto excluído | | |
+| CT007 | Testar exclusão de produto que está dentro de um carrinho | Usuário autenticado | 1. Acessar a rota de Produtos; 2. Selecionar o produto que está dentro de um carrinho; 3. Clicar em "Excluir". | Retornar status 400 (Bad Request) e a mensagem de erro "Produto não pode ser excluído pois está dentro de um carrinho". | | |
