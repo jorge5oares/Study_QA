@@ -55,21 +55,3 @@ Este plano de teste abrange as seguintes funcionalidades:
 **Equipe de Teste:**
 
 * Jorge Soares
-
-
-**Cronograma:**
-
-* Início dos testes: 2024-06-15
-* Término dos testes: 2024-06-20
-
-**Riscos:**
-
-* A API ainda está em desenvolvimento e pode haver mudanças que não foram documentadas.
-* Os dados de teste podem estar incorretos.
-* A equipe de teste pode não ter tempo suficiente para concluir todos os testes.
-
-**Mitigação de Riscos:**
-
-* Manter contato constante com a equipe de desenvolvimento para acompanhar as mudanças na API.
-* Utilizar dados de teste de alta qualidade.
-* Priorizar os testes mais importantes

@@ -52,16 +52,3 @@ Jorge Soares de Carvalho
 **Aprovação:**
 
 [Nome do gerente]
-
-**Observações:**
-
-* Este planejamento de teste é um documento inicial e pode ser modificado à medida que o desenvolvimento do sistema avança.
-* É importante documentar os resultados dos testes e as evidências coletadas.
-* Os testes devem ser realizados de forma manual e automatizada.
-* Os bugs encontrados durante os testes devem ser registrados e priorizados para correção.
-
-**Acredito que este planejamento de teste irá te ajudar a testar a funcionalidade de login do Marketplace da ServeRest de forma eficaz e completa.**
-
-**Se você tiver alguma dúvida ou precisar de ajuda para realizar os testes, por favor, não hesite em me contatar.**
-
-**Boa sorte!**
