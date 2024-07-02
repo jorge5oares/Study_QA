@@ -22,6 +22,8 @@ para a instalação, voce pode encontra-los aqui: https://mochajs.org/ e https:/
 
 ![alt text](comousarcal.gif)
 
+_Agradecimento especial a Leticia Ribeiro pela dica do gif_ 👍
+
 ## Rota _/Carrinhos_ e sua parte no mapa mental:
 
 
