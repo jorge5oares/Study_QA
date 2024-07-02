@@ -20,7 +20,11 @@ export default class Calculadora {
         const kelvin = celsius + 273.15;
         return kelvin
     }
-     
+    // converte Km para metros
+    static kmparaMetros(km){
+        const metros = km * 1000;
+        return metros
+    }
 
 
 }

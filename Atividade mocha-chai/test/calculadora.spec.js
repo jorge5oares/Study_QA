@@ -30,7 +30,6 @@ describe('Testes de multiplicação', () => {
 
     })
 })
-// a partir daqui eu posso fazer uns calaulos mais "complexos",como o de ordenazação:
 
 describe('Testes de divisão', () => {
     it('Deve dividir 6 e 2 resultando em 3', ()=> {
@@ -39,9 +38,18 @@ describe('Testes de divisão', () => {
     })
 })
 
+// a partir daqui eu posso fazer uns calaulos mais "complexos"
+
 describe('Conversor de temperatura Celsius para Kelvin', () => {
     it('Deve converter a temperatura para Kelvin' , ()=> {
        let resultado = Calculadora.celsiusParaKelvin(21)
        expect(resultado).to.be.lessThanOrEqual(294.15)
 })
+})
+
+describe('Conversor de Km para metros', () => {
+    it('Deve converter os Km para Metros', ()=> {
+        let resultado = Calculadora.kmparaMetros(5)
+        expect(resultado).to.be.eq(5000)
+    })
 })
