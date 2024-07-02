@@ -10,7 +10,7 @@
 ### Nessa sprint aprendemos um pouco sobre o Javascript, TDD com Mocha e Chai.
 
 
-**Alguns desses projetos foi de fazer uma calculadora, pode ser acessado por aqui ➡ 🧮**
+**Alguns desses projetos foi de fazer uma calculadora, pode ser acessado por aqui ➡** [🧮](./Atividade%20mocha-chai/src/Calculadora.js)
 
 Para executa-la voce precisará:
 
@@ -30,7 +30,10 @@ para a instalação, voce pode encontra-los aqui: https://mochajs.org/ e https:/
 
 </div>
 
-**Voce pode conferir o mapa mental completo [aqui!](./User%20Story%20e%20testes%20%20Carrinhos/image.png)**
+**Voce pode conferir o mapa mental completo, a user story e os testes [aqui!](./User%20Story%20e%20testes%20%20Carrinhos/image.png)**
+
+
+
 ### Agradecimento aos que contribuíram com este projeto:
 
 - Letícia Ribeiro
