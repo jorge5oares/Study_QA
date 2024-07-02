@@ -9,8 +9,9 @@
 
 ### Nessa sprint aprendemos um pouco sobre o Javascript, TDD com Mocha e Chai.
 
+## [Projetos com atividades em JavaScript](./Projetos%20Javascript/)
 
-**Alguns desses projetos foi de fazer uma calculadora, pode ser acessado por aqui ➡** [🧮](./Atividade%20mocha-chai/src/Calculadora.js)
+## **Alguns desses projetos foi de fazer uma calculadora, pode ser acessado por aqui ➡** [🧮](./Atividade%20mocha-chai/src/Calculadora.js)
 
 Para executa-la voce precisará:
 
