@@ -12,15 +12,15 @@ export default class Calculadora {
         return a * b
     }
 
-    static ordenarNumeros(a, b) {
-        if (typeof a !== 'number' || typeof b !== 'number') {
-          throw new Error('Argumentos inválidos');
-        }
-        const numerosOrdenados = ordenarNumeros([a, b]);
-        const resultado = a + b;
-        
-        return `O resultado da soma ${a} + ${b} é ${resultado}. Números ordenados: ${numerosOrdenados}`;
-      }
-      
+    static div(a, b) {
+        return a / b
+    }
+    // Conversor de temperatura
+    static celsiusParaKelvin(celsius){
+        const kelvin = celsius + 273.15;
+        return kelvin
+    }
+     
+
 
 }

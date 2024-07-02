@@ -32,11 +32,16 @@ describe('Testes de multiplicação', () => {
 })
 // a partir daqui eu posso fazer uns calaulos mais "complexos",como o de ordenazação:
 
-describe('Ordenação', () => {
-    it('deve ordenar um array de números positivos em ordem crescente', () => {
-      const numeros = [5, 2, 4, 1, 3];
-      const resultadoOrdenado = ordenarNumeros(numeros);
-      expect(resultadoOrdenado).toEqual([1, 2, 3, 4, 5]);
-    });
+describe('Testes de divisão', () => {
+    it('Deve dividir 6 e 2 resultando em 3', ()=> {
+        let resultado = Calculadora.div(6,2)
+        expect(resultado).to.be.eq(3)
+    })
 })
 
+describe('Conversor de temperatura Celsius para Kelvin', () => {
+    it('Deve converter a temperatura para Kelvin' , ()=> {
+       let resultado = Calculadora.celsiusParaKelvin(21)
+       expect(resultado).to.be.lessThanOrEqual(294.15)
+})
+})
