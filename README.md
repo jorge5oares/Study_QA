@@ -33,7 +33,7 @@ _Agradecimento especial a Leticia Ribeiro pela dica do gif_ 👍
 
 </div>
 
-**Voce pode conferir o mapa mental completo, a user story e os testes [aqui!](./User%20Story%20e%20testes%20%20Carrinhos/image.png)**
+**Voce pode conferir o mapa mental completo, a user story e os testes [aqui!](./User%20Story%20e%20testes%20%20Carrinhos/UserStoryCarrinho.md)**
 
 
 
