@@ -44,6 +44,7 @@ _Agradecimento especial a Leticia Ribeiro pela dica do gif_ 👍
 - Enzo Rossi
 - Mathias
 - Oliver
+- Davi
 
 
 _Cada ideia compartilhada contribuiu para o sucesso do nosso trabalho em equipe. Agradeço por estarem sempre dispostos a esclarecer dúvidas, resolver problemas e trabalhar juntos para atingir nossos objetivos.
