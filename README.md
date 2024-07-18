@@ -12,3 +12,19 @@
 
 
 O desafio desta vez foi realizar testes de estresse na API da ServRest, vendo quais  os limites ela aguenta, ou os nossos computadores aguentam....
+
+
+### Colaboração Durante a Sprint 5
+
+- Leticia Ribeiro
+- Enzo Rossi
+- Gabriel Just
+- Ricardo Neckel
+- Mathias 
+- Daniel Pontes
+
+
+
+## Autor
+
+- Jorge Soares de Carvalho
