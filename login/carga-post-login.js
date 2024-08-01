@@ -1,34 +1,55 @@
-import http from 'k6/http';
-import { check, sleep } from 'k6';
-import { htmlReport } from "https://raw.githubusercontent.com/benc-uk/k6-reporter/main/dist/bundle.js";
+ import http from 'k6/http';
+ import { check, sleep } from 'k6';
+ import { generateRandomEmail, createUser } from '../utils.js';
+ import { htmlReport } from "https://raw.githubusercontent.com/benc-uk/k6-reporter/main/dist/bundle.js";
 
-export default function () {
-    const url = 'http://localhost:3000/#/Login/post_login';
-    const payload = JSON.stringify({
-        email: "fulano@qa.com",
-        password: "teste",
-    });
-
-
-export const options = {
-    vus: 310,
-    duration: '2s',
-    thresholds: {
-        http_req_failed: ['rate<0.05'],
-        http_req_duration: ['p(95)<500'],
-    },
-};
-
-
-export default function () {
-    let res = http.post('http://localhost:3000/login'); 
+export function setup() {
+    const baseURL = 'http://localhost:3000'
+    const user = {
+        nome:`Oji ${Math.random()}`,
+        email: generateRandomEmail(),
+        password: 'senhasegura',
+        administrador: 'false',
         
-    console.log(res.body)
-
-    check(res, { 'status was 200': (r) => r.status === 200 });
-
-    sleep(1);
-}
-
+    };
+    const res = createUser(baseURL, user);
+    return user
 
 }
+
+ export const options = {
+     vus: 500,
+     duration: '15s',
+     thresholds: {
+         http_req_failed: ['rate<0.05'],
+        http_req_duration: ['p(95)<500'],
+     },
+ };
+
+
+ export function handleSummary(data) {
+    return {
+        'summary.html': htmlReport(data),
+    };
+}
+
+ export default function (data) {
+     const baseURL = 'http://localhost:3000';
+     const loginPayload = JSON.stringify({
+        email: data.email,
+        password: data.password,
+     });
+     const res = http.post(`${baseURL}/login`, loginPayload, {
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
+     
+        
+      console.log(res.body)
+
+     check(res, { 'status was 200': (r) => r.status === 200 });
+
+     sleep(1);
+ }
+
