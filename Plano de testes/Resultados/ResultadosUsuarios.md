@@ -1,4 +1,4 @@
-### Teste de performance /USUARIOS
+### Teste de performance /USUARIOS no verbo /get
 
 ### TP01 Teste de carga
 
@@ -34,9 +34,10 @@
 ![pico usuario](../../evidencias%20testes/Usuarios/pico%20com%205s%20400%20vus%20target%202%200(nao%20deu%20muito%20certo).png
 )
 
-### TP04 Teste de Resistencia
+### TP05 Teste de Resistencia
 
 - Vus 210
 - Duration 5m
 
 ![resistencia usuario](../../evidencias%20testes/Usuarios/resistencia%20210%205m.png)
+
