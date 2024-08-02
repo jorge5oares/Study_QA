@@ -1,6 +1,22 @@
 import http from 'k6/http';
 import { check } from 'k6';
 
+export function login(user){
+  const requestBody = JSON.stringify({
+      "email": user.email,
+      "password": user.password,
+  });
+  const params = {
+      headers: {
+        'Content-Type': 'application/json',
+      },
+  };
+  return http.post('http://localhost:3000/login',requestBody,params);
+}
+export function getUser(id){
+  return JSON.parse(http.get("http://localhost:3000/usuarios/"+id).body);
+}
+
 
 export function randomStringChar (length) {
     const characters = 'ADCEFGabcdefg0123456789';

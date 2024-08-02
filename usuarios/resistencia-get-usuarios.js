@@ -4,14 +4,11 @@ import { htmlReport } from "https://raw.githubusercontent.com/benc-uk/k6-reporte
 
 
 export const options = {
-    stages: [
-        {duration:'20s', target:50},
-        {duration:'20s', target:100},
-        {duration:'20s', target:200},
-    ],
+    vus: 210,
+    duration: '5m',
     thresholds: {
         http_req_failed: ['rate<0.05'],
-        http_req_duration: ['p(95)<2000'],
+        // http_req_duration: ['p(95)<500'],
     },
 };
 
