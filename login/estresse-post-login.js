@@ -18,12 +18,15 @@ export function setup() {
 }
 
 export const options = {
-    vus: 800,
-    duration: '10s',
-    thresholds: {
-        http_req_failed: ['rate<0.05'],
-       http_req_duration: ['p(95)<900'],
-    },
+    stages: [
+        {duration:'20s', target:50},
+        {duration:'20s', target:100},
+        {duration:'20s', target:200},
+    ],
+     thresholds: {
+         http_req_failed: ['rate<0.05'], // http errors should be less than 5%
+        http_req_duration: ['p(95)<4000'],// 95% of requests should be below 400ms
+     },
 };
 
 

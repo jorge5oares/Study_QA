@@ -21,7 +21,7 @@ export function handleSummary(data) {
 
 export default function () {
     let res = http.get('http://localhost:3000/usuarios');
-    console.log(res.body)
+    // console.log(res.body)
 
     check(res, { 'status was 200': (r) => r.status === 200 });
 

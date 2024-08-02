@@ -26,6 +26,10 @@ export function setup() {
       // No plateau
       { duration: '15s', target: 0 }, // quick ramp-down to 0 users
     ],
+    thresholds: {
+      http_req_failed: ['rate<0.01'], // http errors should be less than 1%
+      http_req_duration: ['p(95)<200'], // 95% of requests should be below 200ms
+    },
   };
 
 
