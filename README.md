@@ -60,8 +60,8 @@ k6 run .\stressGetCarrinhos.js por exemplo para dar inicio ao teste.
 <p align="center">
 <img src="https://media1.tenor.com/m/CcCDRhgwP78AAAAC/overheat-computer.gif" alt="Placeholder Image" width="500" />
 
-### [Por qui voce encontra o plano de teste](./Challenger/Plano%20de%20testes/plano%20de%20teste.md) 📝
-### [E os resultado dos testes em questão](./Challenger/Resultado%20dos%20Testes/) 🛠️
+### [Por qui voce encontra o plano de teste](./Challenger/Plano%20de%20testes/Plano%20de%20teste.md) 📝
+### [E os resultado dos testes em questão](./Challenger/Resultado%20dos%20Testes/resultados.md) 🛠️
 
 
 ### Agradecimento aos que contribuíram com este projeto:
