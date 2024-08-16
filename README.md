@@ -22,7 +22,6 @@ _Meu foco foram os testes de:_
 - Escalabilidade
 
 
-_Os resultados obtidos voce pode conferir [aqui](./Plano%20de%20testes/Resultados/)_
 
 ### Agradecimento aos que contribuíram com este projeto:
 
