@@ -80,3 +80,10 @@ Vocês são incríveis! Vamos continuar construindo coisas incríveis juntos._
 
 <p align="center">
 <img src="https://25.media.tumblr.com/tumblr_m4cksqQBmv1rszfv7o1_500.gif" alt="Placeholder Image" width="500" />
+
+
+
+- Autor: Jorge Soares de Carvalho
+
+<p align="center">
+<img src="https://scontent.fsdu33-1.fna.fbcdn.net/v/t1.6435-9/53921560_2179232185501126_6262304618148003840_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=QLilCnrRXoEQ7kNvgGvoidV&_nc_ht=scontent.fsdu33-1.fna&oh=00_AYAtgAgwjqUe8sSlUpdyEkG1yqQCzZBFJobzuaOoJn7wrg&oe=66E6FE93" alt="Placeholder Image" width="100" />
