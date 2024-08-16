@@ -48,4 +48,4 @@ Esta matriz de rastreabilidade documenta os cenários de teste de performance ut
 - **Status Code Esperado:** Em todos os testes, o código de status esperado deve ser 200 (não 201).
 - **Métricas de Desempenho:** As métricas de desempenho são definidas com base no percentil 95 (p(95)) da duração da requisição HTTP e a taxa de falhas das requisições.
 
-### _Código feito com auxilio do Chat GPT._
+#### _Código feito com auxilio do Chat GPT._
